@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ege Demirci.</h1>
 
-- 🔭 I’m currently studying Computer Science and Engineering in Sabanci University '24.
+- 🔭 I’m currently studying Computer Science and Engineering in Sabanci University, class of 2024.
 
 - 🌱 I’m currently learning about **unsupervised learning techniques.**
 
