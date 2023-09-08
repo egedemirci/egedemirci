@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering in Sabanci University, class of 2024.
 
-- 🌱 I’m currently learning about **unsupervised learning techniques.**
+- 🌱 Personal website: [egedemirci.net](http://egedemirci.net/) **.**
 
 - 👨‍💻 I'm member of the [VRLLAB.](http://varollab.com/)
 
-- 📝 I’m looking to collaborate on **social media analysis and machine learning projects.**
+- 📝 I’m looking to collaborate on **computational social sciences and machine learning for social good projects.**
 
 - 📫 How to reach me **egedemirci@sabanciuniv.edu**
 
