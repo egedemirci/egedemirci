@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering in Sabanci University, class of 2024.
 
-- 🌱 Personal website: [egedemirci.net](http://egedemirci.net/) **.**
+- 🌱 Personal website: [egedemirci.net](http://egedemirci.net/)
 
 - 👨‍💻 I'm member of the [VRLLAB.](http://varollab.com/)
 
