@@ -1,14 +1,13 @@
 <h1 align="center">Hi there, I'm Ege Demirci.</h1>
 
-- 🔭 I’m currently studying Computer Science and Engineering in Sabanci University, class of 2024.
+- 🔭 I’m currently a 1st year PhD student at UC Santa Barbara.
 
 - 🌱 Personal website: [egedemirci.net](http://egedemirci.net/)
 
-- 👨‍💻 I'm member of the [VRLLAB.](http://varollab.com/)
+- 👨‍💻 I'm member of the [DYNAMO.](http://dynamo.cs.ucsb.edu/)
 
-- 📝 I’m looking to collaborate on **computational social sciences and machine learning for social good projects.**
 
-- 📫 How to reach me **egedemirci@sabanciuniv.edu**
+- 📫 How to reach me **egedemirci@ucsb.edu**
 
 
 
