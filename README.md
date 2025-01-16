@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ege Demirci.</h1>
 
-- 🔭 I’m currently a 1st year PhD student at UC Santa Barbara.
+- 🔭 I’m currently a first year PhD student at UC Santa Barbara.
 
 - 🌱 Personal website: [egedemirci.net](http://egedemirci.net/)
 
