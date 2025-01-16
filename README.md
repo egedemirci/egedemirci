@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Ege Demirci.</h1>
 
-- 🔭 I’m currently a first year PhD student at UC Santa Barbara.
+- 🔭 I’m currently a first year Computer Science PhD student at UC Santa Barbara.
 
 - 🌱 Personal website: [egedemirci.net](http://egedemirci.net/)
 
-- 👨‍💻 I'm member of the [DYNAMO.](http://dynamo.cs.ucsb.edu/)
+- 👨‍💻 I'm a researcher at [DYNAMO.](http://dynamo.cs.ucsb.edu/)
 
 
 - 📫 How to reach me **egedemirci@ucsb.edu**
